@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Type a string like (pizza in New York) to search for related places.</string>
+    <string name="app_name">Place Finder</string>
+</resources>
